@@ -6,8 +6,8 @@
 [![Dev Dependencies][devDependencies-badge]][devDependencies-badge-url]
 
 
-_Ticketfly CSS helpers for the "tap-target" object pattern_.
-
+_Text utilities for Ticketfly CSS. These helpers are primarilly focused
+on controlling the structure and alignment of text content._
 
 ## Installation
 
